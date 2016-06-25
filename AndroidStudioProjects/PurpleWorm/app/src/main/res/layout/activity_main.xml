@@ -23,8 +23,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/wurmBox"
         android:src="@drawable/wurm1"
+        android:contentDescription="@string/box_for_the_wurm_image"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:contentDescription="@string/box_for_the_wurm_image" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/button1" />
 </RelativeLayout>
