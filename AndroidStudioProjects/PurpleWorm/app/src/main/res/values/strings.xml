@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Purple Worm</string>
+    <string name="box_for_the_wurm_image">Box for the Wurm Image</string>
+    <string name="turn_the_wurm">Turn The Wurm</string>
+</resources>
